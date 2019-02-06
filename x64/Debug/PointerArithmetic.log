@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  PointerArithmetic.cpp
+c:\users\carli\documents\pointer-samples\pointerarithmetic.cpp(11): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\carli\documents\pointer-samples\pointerarithmetic.cpp(52): fatal error C1004: unexpected end-of-file found
